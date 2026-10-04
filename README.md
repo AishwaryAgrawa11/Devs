@@ -29,7 +29,7 @@ The goal is simple:
 | 👨‍💻 Ritom | [@Ritom76](https://github.com/Ritom76) |
 | 👨‍💻 Rakshit Raj | [@Deathdestruction09](https://github.com/Deathdestruction09) |
 | 👨‍💻 Divyansh | [@DivyanshAgrawal2341](https://github.com/DivyanshAgrawal2341) |
-| 👨‍💻 Raunit | [@Raunit-Kumar-Singh](https://github.com/Raunit-Kumar-Singh) |
+| 👨‍💻 Raunit | [@Raunit-Kumar-Singh](https://github.com/Raunit-Kumar-Singh) | 
 
 ---
 
@@ -277,3 +277,5 @@ Most importantly:
 ### ⭐ Let's see how far we can go.
 
 **One problem. Every day. No excuses. 🚀**
+
+
