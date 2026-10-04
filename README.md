@@ -31,6 +31,8 @@ The goal is simple:
 | 👨‍💻 Divyansh | [@DivyanshAgrawal2341](https://github.com/DivyanshAgrawal2341) |
 | 👨‍💻 Raunit | [@Raunit-Kumar-Singh](https://github.com/Raunit-Kumar-Singh) | 
 | 👨‍💻 Gourav Gangwar | [@gouravgangwardev](https://github.com/gouravgangwardev) |
+| 👨‍💻 Ravi Kumar Gupta | [@RavikumarGupta](https://github.com/ravikumargupta833-dev) |
+
 
 ---
 
@@ -63,6 +65,7 @@ The goal is simple:
 | Divyansh | 0 | 🔥 0 |
 | Raunit | 0 | 🔥 0 |
 | Gourav | 0 | 🔥 0 |
+| Ravi | 0 | 🔥 0 |
 
 ---
 
