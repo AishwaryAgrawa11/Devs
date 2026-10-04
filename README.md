@@ -30,14 +30,15 @@ The goal is simple:
 | 👨‍💻 Rakshit Raj | [@Deathdestruction09](https://github.com/Deathdestruction09) |
 | 👨‍💻 Divyansh | [@DivyanshAgrawal2341](https://github.com/DivyanshAgrawal2341) |
 | 👨‍💻 Raunit | [@Raunit-Kumar-Singh](https://github.com/Raunit-Kumar-Singh) | 
+| 👨‍💻 Gourav Gangwar | [@gouravgangwardev](https://github.com/gouravgangwardev) |
 
 ---
 
 ## 📊 Progress
 
-| Day | Problem | Aishwary | Anuj | Ashish | Jitansu | Ritom | Rakshit | Divyansh | Raunit |
-|---:|---------|:--------:|:----:|:------:|:-------:|:-----:|:-------:|:--------:|:------:|
-| 01 | Coming Soon | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| Day | Problem | Aishwary | Anuj | Ashish | Jitansu | Ritom | Rakshit | Divyansh | Raunit | Gourav Gangwar |
+|---:|---------|:--------:|:----:|:------:|:-------:|:-----:|:-------:|:--------:|:------:|:------:|
+| 01 | Coming Soon | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
 
 **Legend**
 
@@ -61,6 +62,7 @@ The goal is simple:
 | Rakshit | 0 | 🔥 0 |
 | Divyansh | 0 | 🔥 0 |
 | Raunit | 0 | 🔥 0 |
+| Gourav | 0 | 🔥 0 |
 
 ---
 
@@ -96,6 +98,10 @@ Problem-of-the-Day/
 │   └── ...
 │
 ├── Raunit/
+│   └── ...
+├── Gourav/
+│   ├── Day0/
+│   ├── Day1/
 │   └── ...
 │
 └── README.md
