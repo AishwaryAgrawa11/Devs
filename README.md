@@ -65,42 +65,51 @@ Each member has their own folder.
 ```text
 Problem-of-the-Day/
 │
-├── Aishwary/
-│   ├── Day0/
-│   ├── Day1/
-│   └── ...
+├── Day01_ScoreOfParentheses/
+│   ├── README.md
+│   │
+│   ├── Aishwary/
+│   │   └── Solution
+│   │
+│   ├── Anuj/
+│   │   └── Solution
+│   │
+│   ├── Ashish/
+│   │   └── Solution
+│   │
+│   ├── Jitansu/
+│   │   └── Solution
+│   │
+│   ├── Ritom/
+│   │   └── Solution
+│   │
+│   ├── Rakshit/
+│   │   └── Solution
+│   │
+│   ├── Divyansh/
+│   │   └── Solution
+│   │
+│   ├── Raunit/
+│   │   └── Solution
+│   │
+│   ├── Gourav/
+│   │   └── Solution
+│   │
+│   └── Ravi/
+│       └── Solution
 │
-├── Anuj/
-│   ├── Day0/
-│   └── ...
-│
-├── Ashish/
-│   └── ...
-│
-├── Jitansu/
-│   └── ...
-│
-├── Ritom/
-│   └── ...
-│
-├── Rakshit/
-│   └── ...
-│
-├── Divyansh/
-│   └── ...
-│
-├── Raunit/
-│   └── ...
-│
-├── Gourav/
-│   ├── Day0/
-│   ├── Day1/
-│   └── ...
-│
-├── Ravi/
-│   ├── Day0/
-│   ├── Day1/
-│   └── ...
+├── Day02_ProblemName/
+│   ├── README.md
+│   ├── Aishwary/
+│   ├── Anuj/
+│   ├── Ashish/
+│   ├── Jitansu/
+│   ├── Ritom/
+│   ├── Rakshit/
+│   ├── Divyansh/
+│   ├── Raunit/
+│   ├── Gourav/
+│   └── Ravi/
 │
 └── README.md
 ```
