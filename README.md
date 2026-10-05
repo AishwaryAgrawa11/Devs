@@ -29,7 +29,7 @@ The goal is simple:
 
 | Day | Problem | Aishwary | Anuj | Ashish | Jitansu | Ritom | Rakshit | Divyansh | Raunit | Gourav Gangwar | Ravi |
 |---:|---------|:--------:|:----:|:------:|:-------:|:-----:|:-------:|:--------:|:------:|:--------------:|:----:|
-| 01 | Coming Soon | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| 01 | Score of Parentheses | ✅ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
 
 ### Legend
 
@@ -45,7 +45,7 @@ The goal is simple:
 
 | Member | Problems Solved | Current Streak |
 |--------|:---------------:|:--------------:|
-| Aishwary | 0 | 🔥 0 |
+| Aishwary | 1 | 🔥 1 |
 | Anuj | 0 | 🔥 0 |
 | Ashish | 0 | 🔥 0 |
 | Jitansu | 0 | 🔥 0 |
@@ -53,8 +53,8 @@ The goal is simple:
 | Rakshit | 0 | 🔥 0 |
 | Divyansh | 0 | 🔥 0 |
 | Raunit | 0 | 🔥 0 |
-| Gourav Gangwar | 0 | 🔥 0 |
-| Ravi Kumar Gupta | 0 | 🔥 0 |
+| Gourav | 0 | 🔥 0 |
+| Ravi | 0 | 🔥 0 |
 
 ---
 
@@ -103,3 +103,4 @@ Problem-of-the-Day/
 │   └── ...
 │
 └── README.md
+```
