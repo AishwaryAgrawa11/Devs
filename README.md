@@ -20,8 +20,8 @@ The goal is simple:
 | 👨‍💻 Rakshit Raj | [@Deathdestruction09](https://github.com/Deathdestruction09) |
 | 👨‍💻 Divyansh | [@DivyanshAgrawal2341](https://github.com/DivyanshAgrawal2341) |
 | 👨‍💻 Raunit | [@Raunit-Kumar-Singh](https://github.com/Raunit-Kumar-Singh) |
-| 👨‍💻 Gourav Gangwar | [@gouravgangwardev](https://github.com/gouravgangwardev) |
-| 👨‍💻 Ravi Kumar Gupta | [@ravikumargupta833-dev](https://github.com/ravikumargupta833-dev) |
+| 👨‍💻 Gourav | [@gouravgangwardev](https://github.com/gouravgangwardev) |
+| 👨‍💻 Ravi | [@ravikumargupta833-dev](https://github.com/ravikumargupta833-dev) |
 
 ---
 
@@ -54,7 +54,7 @@ The goal is simple:
 | Divyansh | 0 | 🔥 0 |
 | Raunit | 0 | 🔥 0 |
 | Gourav Gangwar | 0 | 🔥 0 |
-| **Ravi Kumar Gupta** | **0** | 🔥 **0** |
+| Ravi Kumar Gupta | 0 | 🔥 0 |
 
 ---
 
@@ -97,7 +97,7 @@ Problem-of-the-Day/
 │   ├── Day1/
 │   └── ...
 │
-├── Ravi-Kumar-Gupta/
+├── Ravi/
 │   ├── Day0/
 │   ├── Day1/
 │   └── ...
