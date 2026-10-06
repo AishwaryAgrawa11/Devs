@@ -46,7 +46,7 @@ The goal is simple:
 
 | Member | Problems Solved | Current Streak |
 |--------|:---------------:|:--------------:|
-| Aishwary | 1 | 🔥 1 |
+| Aishwary | 2 | 🔥 2 |
 | Anuj | 0 | 🔥 0 |
 | Ashish | 0 | 🔥 0 |
 | Jitansu | 0 | 🔥 0 |
