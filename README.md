@@ -30,7 +30,7 @@ The goal is simple:
 | Day | Problem | Aishwary | Anuj | Ashish | Jitansu | Ritom | Rakshit | Divyansh | Raunit | Gourav Gangwar | Ravi |
 |---:|---------|:--------:|:----:|:------:|:-------:|:-----:|:-------:|:--------:|:------:|:--------------:|:----:|
 | 01 | Score of Parentheses | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ |
-| 02 | Minimum Add to Make Parentheses Valid | ✅ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| 02 | Minimum Add to Make Parentheses Valid | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
 ### Legend
 
@@ -54,8 +54,8 @@ The goal is simple:
 | Rakshit | 0 | 🔥 0 |
 | Divyansh | 0 | 🔥 0 |
 | Raunit | 0 | 🔥 0 |
-| Gourav | 1 | 🔥 1 |
-| Ravi | 1 | 🔥 1 |
+| Gourav | 1 | 🔥 0 |
+| Ravi | 1 | 🔥 0 |
 
 ---
 
